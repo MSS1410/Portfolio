@@ -1,0 +1,15 @@
+.menu {
+  font-family: var(--font-secondary);
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.menu .itemlista {
+  font-family: var(--font-secondary);
+  cursor: pointer;
+  margin: 10px 0;
+  font-size: 40px;
+  padding: 5px;
+  text-transform: initial;
+}
