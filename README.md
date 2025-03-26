@@ -70,7 +70,8 @@ Para ejecutar el sitio de portfolio en tu entorno local, sigue estos pasos:
 - Contacto: Emplea el formulario (si está disponible) o los enlaces de contacto para comunicarte.
 
 4. **Estructura del Proyecto**
-   ```php
+   
+```php
    Portfolio/
 ├── index.html              # Archivo principal de la web
 ├── package.json            # Configuración del proyecto y dependencias
